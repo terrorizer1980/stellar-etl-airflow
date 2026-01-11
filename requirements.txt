@@ -123,9 +123,9 @@ typing-extensions==3.7.4.3
 tzlocal==1.5.1
 unicodecsv==0.14.1
 uritemplate==3.0.1
-urllib3==1.25.10
+urllib3==2.6.3
 websocket-client==0.57.0
-Werkzeug==0.16.1
+Werkzeug==3.1.5
 WTForms==2.3.3
 zipp==3.1.0
 zope.deprecation==4.4.0
